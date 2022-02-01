@@ -2,7 +2,7 @@
 ![CHEESE!](error.jpg)
 
 # settings.py
-- TIME_ZONE = 'Asia/Colombo'
+- TIME_ZONE = 'Asia/Kolkata'
 - USE_I18N = True
 - USE_L10N = True
 - USE_TZ = True
