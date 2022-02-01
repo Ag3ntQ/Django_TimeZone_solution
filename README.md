@@ -1,5 +1,6 @@
 # TimeZone_Error
 ![CHEESE!](error.jpg)
+![CHEESE!](errorweb.jpg)
 
 # settings.py
 - TIME_ZONE = 'Asia/Kolkata'
