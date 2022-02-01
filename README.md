@@ -1,4 +1,4 @@
-# Django_TimeZone_solution
+# TimeZone_Error
 ![CHEESE!](error.jpg)
 
 # settings.py
