@@ -1,2 +1,14 @@
 # Django_TimeZone_solution
-Simple solution for :- "No time zone found with  key {key}"
+![CHEESE!](error.jpg)
+
+# settings.py
+- TIME_ZONE = 'Asia/Colombo'
+- USE_I18N = True
+- USE_L10N = True
+- USE_TZ = True
+# Check module tzdata is installed or not
+- for installing 
+<code> pip install tzdata </code>
+!CHEESE!](tzdata.jpg)
+# Error fixed
+!CHEESE!](admin.jpg)
