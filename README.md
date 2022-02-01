@@ -9,6 +9,6 @@
 # Check module tzdata is installed or not
 - for installing 
 <code> pip install tzdata </code>
-!CHEESE!](tzdata.jpg)
+![CHEESE!](tzdata.jpg)
 # Error fixed
-!CHEESE!](admin.jpg)
+![CHEESE!](admin.jpg)
